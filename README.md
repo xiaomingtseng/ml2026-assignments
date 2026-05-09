@@ -24,7 +24,7 @@ ML2026 Assignments 3 & 4 — Model Comparison, Reproducibility, and Fair Evaluat
 ### 安裝
 
 ```bash
-git clone https://github.com/你的帳號/ml2026.git
+git clone https://github.com/xiaomingtseng/ml2026.git
 cd ml2026
 uv sync
 ```
