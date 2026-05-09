@@ -1,0 +1,29 @@
+[project]
+name = "ml2026-assignments"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    # 資料
+    "ucimlrepo",
+    "openml",
+    # ML
+    "scikit-learn",
+    "scikit-image",
+    # 深度學習
+    "torch>=2.0.0",
+    "torchvision>=0.15.0",
+    # 資料處理 / 視覺化
+    "numpy",
+    "pandas",
+    "matplotlib",
+    "pillow",
+]
+
+[tool.uv.sources]
+torch = { index = "pytorch-cu121" }
+torchvision = { index = "pytorch-cu121" }
+
+[[tool.uv.index]]
+name = "pytorch-cu121"
+url = "https://download.pytorch.org/whl/cu121"
+explicit = true
