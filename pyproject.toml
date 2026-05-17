@@ -17,6 +17,7 @@ dependencies = [
     "pandas",
     "matplotlib",
     "pillow",
+    "xgboost>=3.2.0",
 ]
 
 [tool.uv.sources]
