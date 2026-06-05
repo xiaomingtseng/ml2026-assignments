@@ -87,6 +87,7 @@ ml2026/
 | A3 Written Report | [Google Doc](https://docs.google.com/document/d/1PJ7qI1o9v6tPnRyQSm9BO4N7kMjpoOgVPk9lf707eHI/edit?usp=sharing) |
 | A3 Colab Demo | [Google Colab](https://colab.research.google.com/drive/1AeeIl_absrZWq0-0SCpOdHyS6aq7JXkM?usp=sharing) |
 | A4 Written Report | [Google Doc](https://docs.google.com/document/d/1AfmCoMZQvwEpfLU4du1qmeubxoHDENeI/edit) |
+| A4 Colab Demo | [Google Colab](https://colab.research.google.com/drive/1CaubAGbu4bIQxiZ6y3kqyjwTJsyLHyxO?usp=sharing) |
 
 ---
 
